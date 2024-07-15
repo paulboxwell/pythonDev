@@ -1,0 +1,5 @@
+flask
+flask-mysqldb
+flask_sqlalchemy
+flask-login
+werkzeug

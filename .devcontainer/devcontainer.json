@@ -1,0 +1,17 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "features": {},
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "gruntfuggly.todo-tree",
+                "redhat.vscode-yaml",
+                "42crunch.vscode-openapi",
+                "bierner.markdown-mermaid"
+            ]
+        }
+    },
+    "context": ".."
+}
